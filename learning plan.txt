@@ -1,4 +1,13 @@
-== 26-5-2022 ===  java script start 1-kun == 
-** 12 : 00 - 
-  - extentionlar 
-  - JsHint
+== 26-5-2022 === murakkab java script start 1-kun == 
+** 12 : 00 - 15:00 /  16 : 50 - 18:00
+kirish darsi 1-dars ->  13 -darsgacha git bilan ishlash  va if else
+
+
+== 27-5-2022 === murakkab java script  2-kun == 
+** 18 : 15 - tugatmadm 
+14 -dars Tsikl 
+
+
+== 39-5-2022 === murakkab java script  2-kun == 
+** 13-21 -  
+14 -dars Tsikl  home work -> vazifa toliq bajarildi yangi narsa organdm 
