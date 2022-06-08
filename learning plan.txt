@@ -8,6 +8,21 @@ kirish darsi 1-dars ->  13 -darsgacha git bilan ishlash  va if else
 14 -dars Tsikl 
 
 
-== 39-5-2022 === murakkab java script  2-kun == 
+== 29-5-2022 === murakkab java script  3-kun == 
 ** 13-21 -  
 14 -dars Tsikl  home work -> vazifa toliq bajarildi yangi narsa organdm 
+
+== 31-5-2022 === murakkab java script  4-kun == 
+** 16-00 - *
+gitga kursni tashadm 
+
+== 2-6-2022 === murakkab java script  5-kun == 
+** 13:20 - 14 : 10 
+19 -dars ->  20 dars 
+
+== 8-6-2022 === murakkab java script  6-kun == 
+** 9:00 - 
+21 dars ->
+
+
+
