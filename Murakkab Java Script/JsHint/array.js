@@ -31,6 +31,12 @@ const newNumbers = Object.assign({} , numbers)
 newNumbers.x = 20 
 console.log(newNumbers);
 
+/// objlarni birlashtirish
+const numbers2 = {
+    f : 35
+}
+const  allNumbers = Object.assign(numbers , numbers2); 
+console.log(allNumbers);
 
 
 
