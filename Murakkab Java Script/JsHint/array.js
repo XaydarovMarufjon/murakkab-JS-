@@ -19,29 +19,42 @@
 
 /////  clone =>  objectni ichidagi malumotlarmni kochirish  
 
-const numbers =  { 
-    x:10 , 
-    y:2,
-    z:{
-        a:1,
-        b:2
-    }
-}
-const newNumbers = Object.assign({} , numbers)
-newNumbers.x = 20 
-console.log(newNumbers);
+// const numbers =  { 
+//     x:10 , 
+//     y:2,
+//     z:{
+//         a:1,
+//         b:2
+//     }
+// }
+// const newNumbers = Object.assign({} , numbers)
+// newNumbers.x = 20 
+// console.log(newNumbers);
 
-/// objlarni birlashtirish
-const numbers2 = {
-    f : 35
-}
-const  allNumbers = Object.assign(numbers , numbers2); 
-console.log(allNumbers);
-
-
+// /// objlarni birlashtirish
+// const numbers2 = {
+//     f : 35
+// }
+// const  allNumbers = Object.assign(numbers , numbers2); 
+// console.log(allNumbers);
 
 
+///// clone array
 
+// const arr = [1,2,3]
+// const numbers = arr.slice()
+// numbers[1] = "Marufjon"
 
+// /// SPREAD 
+// const liverpool = ['salah' , "mane"]
+// const realM = ["isco"]
+// const mixplayer = [...liverpool , ...realM]
 
+//@@ 
+// const calc = [1,2,4,5]
+
+// function logger(x,y,z,f) {
+//     console.log(x + y + z+f);
+// }
+// logger(...calc)
 

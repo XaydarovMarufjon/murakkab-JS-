@@ -15,7 +15,11 @@ let seriesDB = {
     series : {} ,
     actors : "Cobra Cai",
     genres : [] , 
-    privat  : false
+    privat  : false ,
+
+    start: function(){
+        
+    }
 }
 
 
