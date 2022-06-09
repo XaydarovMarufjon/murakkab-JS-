@@ -9,5 +9,5 @@ kirish darsi 1-dars ->  13 -darsgacha git bilan ishlash  va if else
 
 
 == 39-5-2022 === murakkab java script  2-kun == 
-** 13-21 -  
+** 13-21 - 14-25 /
 14 -dars Tsikl  home work -> vazifa toliq bajarildi yangi narsa organdm 
