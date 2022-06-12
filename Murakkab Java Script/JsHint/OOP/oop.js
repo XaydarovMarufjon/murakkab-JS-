@@ -9,15 +9,15 @@
 
 // //////////
 
-const car = {
-    motor : "x" , 
-    color : 'black',
-    isAirbag : true,
-}
+// const car = {
+//     motor : "x" , 
+//     color : 'black',
+//     isAirbag : true,
+// }
 
-const gm = {
-    isAirbag : false,
-}
+// const gm = {
+//     isAirbag : false,
+// }
 
 // gm.__proto__ = car
 // console.log(gm);
@@ -33,3 +33,8 @@ const gm = {
 
 // const bmw = Object.create(car)
 // console.log(bmw.color);
+
+
+
+
+/////// dynamic typing 
