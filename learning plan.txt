@@ -34,16 +34,21 @@ gitga kursni tashadm
 ** 11:34 - 12 :00  -- 13 : 24 -
 24 dars ->  27 dars 
 
-== 10-6-2022 === murakkab java script OOP 8-kun == 
+== 10-6-2022 === murakkab java script  8-kun == 
 ** 10 : 00 - 
 27 dars ->  31 -dars
 
-== 11-6-2022 === murakkab java script OOP 9-kun == 
+== 11-6-2022 === murakkab java script  9-kun == 
 ** 12 : 07 - 
 32 dars -> 
 
 
 
-== 12-6-2022 === murakkab java script OOP 9-kun == 
+== 12-6-2022 === murakkab java script 3 -modul 10-kun == 
 ** 14 : 00 -  
-32 dars -> 
+32 dars -> 35 
+
+
+== 13-6-2022 === murakkab java script  11-kun == 
+** 14 : 40 -  16 :40 ->
+36 dars ->  37 ->
