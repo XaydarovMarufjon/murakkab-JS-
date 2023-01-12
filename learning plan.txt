@@ -52,3 +52,9 @@ gitga kursni tashadm
 == 13-6-2022 === murakkab java script  11-kun == 
 ** 14 : 40 -  16 :40 ->
 36 dars ->  37 ->
+
+
+
+ ==== sammi.ac ===== 
+ 1 kun 22 dars clone js -- > OOP --> 24 -dars
+ 
