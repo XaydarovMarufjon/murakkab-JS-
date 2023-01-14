@@ -58,3 +58,4 @@ gitga kursni tashadm
  ==== sammi.ac ===== 
  1 kun 22 dars clone js -- > OOP --> 24 -dars
  
+ 2 kun 25 dars --> 
